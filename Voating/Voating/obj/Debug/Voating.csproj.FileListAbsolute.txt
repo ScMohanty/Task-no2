@@ -1,0 +1,7 @@
+D:\Assignment2\Voating\Voating\bin\Debug\Voating.exe.config
+D:\Assignment2\Voating\Voating\bin\Debug\Voating.exe
+D:\Assignment2\Voating\Voating\bin\Debug\Voating.pdb
+D:\Assignment2\Voating\Voating\obj\Debug\Voating.csproj.AssemblyReference.cache
+D:\Assignment2\Voating\Voating\obj\Debug\Voating.csproj.CoreCompileInputs.cache
+D:\Assignment2\Voating\Voating\obj\Debug\Voating.exe
+D:\Assignment2\Voating\Voating\obj\Debug\Voating.pdb
